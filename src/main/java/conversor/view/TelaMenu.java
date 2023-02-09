@@ -12,10 +12,10 @@ public class TelaMenu extends TelaBase{
 	private JButton instrucoes;
 	private JButton escolher;
 	private JButton sair;
-	
+	 
 	private ControleTelaMenu controle;
 	
-	public TelaMenu() {
+	public  TelaMenu() {
 		super();
 	
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
